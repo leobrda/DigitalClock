@@ -63,9 +63,9 @@
 git clone https://github.com/leobrda/digital_clock.git
 ```
 
-2. Instale o PyCharm
+2. Instale a IDE de sua preferência
  
-3. Abra o projeto na IDE
+3. Abra o projeto 
  
 4. Rodar projeto
 
